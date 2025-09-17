@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.23)  17 SEP 2025 11:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.23)  17 SEP 2025 11:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1811,7 +1811,7 @@ Underfull \hbox (badness 3049) in paragraph at lines 34--34
 
 
 ]
-Overfull \vbox (10.3713pt too high) has occurred while \output is active []
+Overfull \vbox (24.65135pt too high) has occurred while \output is active []
 
 
 
@@ -1822,12 +1822,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--39
 
 
 
-[43]
-Underfull \hbox (badness 10000) in paragraph at lines 58--61
-
- []
-
-) (mainstuff/Guderne/Orlek.tex
+[43]) (mainstuff/Guderne/Orlek.tex
 
 [44]
 Kapitel 12.
@@ -2016,7 +2011,7 @@ Here is how much of TeX's memory you used:
  1146 hyphenation exceptions out of 8191
  121i,17n,124p,1426b,710s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/niels/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/niels/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplbi8a.pfb><C:/Users/niels/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/niels/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (52 pages, 4466054 bytes).
+Output written on main.pdf (52 pages, 4466239 bytes).
 PDF statistics:
  1009 PDF objects out of 1200 (max. 8388607)
  174 named destinations out of 1000 (max. 500000)
