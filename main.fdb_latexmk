@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1758187635.84115 "c:/Users/NTNS/OneDrive - Telenor/Documents/GitHub/Pr-ste-Regler/main.tex" "main.pdf" "main" 1758187638.47041 2
+["pdflatex"] 1758195902.12254 "c:/Users/NTNS/OneDrive - Telenor/Documents/GitHub/Pr-ste-Regler/main.tex" "main.pdf" "main" 1758195911.20366 0
   "../Evne-Ordbog/Ekstra LP/Ekstra LP Niv. 1.tex" 1757923834 54 89dd3a85b9d7c5123617a806108ebc52 ""
   "../Evne-Ordbog/Ekstra LP/Ekstra LP Niv. 2.tex" 1757923998 54 2af0a73ff058b8c72deabeef54f7774b ""
   "../Evne-Ordbog/Ekstra LP/Ekstra LP Niv. 3.tex" 1757328384 108 91ab7a3e93498268796a2dbd985e8502 ""
@@ -297,10 +297,10 @@
   "C:/Users/NTNS/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-abspage.sty" 1750428951 2269 2de6c7a5fd634dfef00a960544463a38 ""
   "C:/Users/NTNS/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1750428951 20785 198a9cb2e04238d92c320d0d9edbd76a ""
   "c:/Users/NTNS/OneDrive - Telenor/Documents/GitHub/Pr-ste-Regler/main.tex" 1758182851 1739 1aef0822456761bc039ddf3a1b5342f6 ""
-  "main.aux" 1758187635 12445 d48be24d5d2906655c75413ce12f795f "pdflatex"
-  "main.out" 1758187635 13930 44b7dae29ffabad61bb3d6729611d573 "pdflatex"
+  "main.aux" 1758195910 12445 d48be24d5d2906655c75413ce12f795f "pdflatex"
+  "main.out" 1758195910 13930 44b7dae29ffabad61bb3d6729611d573 "pdflatex"
   "main.tex" 1758182851 1739 1aef0822456761bc039ddf3a1b5342f6 ""
-  "main.toc" 1758187635 6625 1a252bd998fd9966fa4f232b19d7c133 "pdflatex"
+  "main.toc" 1758195910 6625 1a252bd998fd9966fa4f232b19d7c133 "pdflatex"
   "mainstuff/Guderne/Esselaia.tex" 1758182851 3742 d40371d439def1078f0d9c2ad839a16c ""
   "mainstuff/Guderne/Ewen.tex" 1758182851 3728 def05d7324bcbae763255f47193608e7 ""
   "mainstuff/Guderne/Ishtar.tex" 1758182851 4393 cc897af7cd37c916af3de61e3dc12837 ""
