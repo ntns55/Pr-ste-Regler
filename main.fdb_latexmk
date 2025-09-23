@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1758630751.13625 "c:/Users/NTNS/OneDrive - Telenor/Documents/GitHub/Pr-ste-Regler/main.tex" "main.pdf" "main" 1758630756.04049 0
+["pdflatex"] 1758632234.72391 "c:/Users/NTNS/OneDrive - Telenor/Documents/GitHub/Pr-ste-Regler/main.tex" "main.pdf" "main" 1758632240.33521 0
   "../Evne-Ordbog/Ekstra LP/Ekstra LP Niv. 1.tex" 1757923834 54 89dd3a85b9d7c5123617a806108ebc52 ""
   "../Evne-Ordbog/Ekstra LP/Ekstra LP Niv. 2.tex" 1757923998 54 2af0a73ff058b8c72deabeef54f7774b ""
   "../Evne-Ordbog/Ekstra LP/Ekstra LP Niv. 3.tex" 1757328384 108 91ab7a3e93498268796a2dbd985e8502 ""
@@ -297,10 +297,10 @@
   "C:/Users/NTNS/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-abspage.sty" 1750428951 2269 2de6c7a5fd634dfef00a960544463a38 ""
   "C:/Users/NTNS/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1750428951 20785 198a9cb2e04238d92c320d0d9edbd76a ""
   "c:/Users/NTNS/OneDrive - Telenor/Documents/GitHub/Pr-ste-Regler/main.tex" 1758182851 1739 1aef0822456761bc039ddf3a1b5342f6 ""
-  "main.aux" 1758630755 12734 f3340a16cf48336aa733cbb6dd45aa4e "pdflatex"
-  "main.out" 1758630755 14006 ab916587cb944042e771c4c48d6d7984 "pdflatex"
+  "main.aux" 1758632239 12734 f3340a16cf48336aa733cbb6dd45aa4e "pdflatex"
+  "main.out" 1758632239 14006 ab916587cb944042e771c4c48d6d7984 "pdflatex"
   "main.tex" 1758182851 1739 1aef0822456761bc039ddf3a1b5342f6 ""
-  "main.toc" 1758630755 6721 43d227899570642c0f63926533aa86ce "pdflatex"
+  "main.toc" 1758632239 6721 43d227899570642c0f63926533aa86ce "pdflatex"
   "mainstuff/Guderne/Esselaia.tex" 1758182851 3742 d40371d439def1078f0d9c2ad839a16c ""
   "mainstuff/Guderne/Ewen.tex" 1758182851 3728 def05d7324bcbae763255f47193608e7 ""
   "mainstuff/Guderne/Ishtar.tex" 1758182851 4393 cc897af7cd37c916af3de61e3dc12837 ""
@@ -309,7 +309,7 @@
   "mainstuff/Guderne/Orlek.tex" 1758182851 4248 56b756d395f6d9f737304d948350b733 ""
   "mainstuff/Guderne/Raf.tex" 1758182851 6758 5c2d5895695d63ea607cebaea4b0cecb ""
   "mainstuff/Indledning.tex" 1758630746 1166 d75af6e49deaf0d5125000a1466f5047 ""
-  "mainstuff/Magi.tex" 1758182851 4198 69e90f035d3a2c520aaf7820c30d9aa7 ""
+  "mainstuff/Magi.tex" 1758632234 4261 fbb6b4dcfb7a78495c659e6f688713d5 ""
   "mainstuff/Niv1.tex" 1758182851 1153 0e2ed462e332f444f66b53cadc27d55e ""
   "mainstuff/Niv2.tex" 1758182851 1173 b81ddbbbf87fca7e4fbf0d0f1ca02a67 ""
   "mainstuff/Niv3.tex" 1758182851 966 2c2a4fa8cb8e77c3e828799c78de82fe ""
