@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1759836909.77424 "c:/Users/NTNS/OneDrive - Telenor/Documents/GitHub/Pr-ste-Regler/main.tex" "main.pdf" "main" 1759836915.94511 0
+["pdflatex"] 1759837127.30585 "c:/Users/NTNS/OneDrive - Telenor/Documents/GitHub/Pr-ste-Regler/main.tex" "main.pdf" "main" 1759837132.65088 0
   "../Evne-Ordbog/Ekstra LP/Ekstra LP Niv. 1.tex" 1757923834 54 89dd3a85b9d7c5123617a806108ebc52 ""
   "../Evne-Ordbog/Ekstra NK/Ekstra NK Niv. 1.tex" 1757917312 60 887729619453f26a0297a14b4adf473c ""
   "../Evne-Ordbog/GenerelleEvner/Evner/6SansNiv1.tex" 1758196555 122 ba25b781fb5a459c20d8a0c78fdf92f9 ""
@@ -293,16 +293,16 @@
   "C:/Users/NTNS/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-abspage.sty" 1750428951 2269 2de6c7a5fd634dfef00a960544463a38 ""
   "C:/Users/NTNS/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1750428951 20785 198a9cb2e04238d92c320d0d9edbd76a ""
   "c:/Users/NTNS/OneDrive - Telenor/Documents/GitHub/Pr-ste-Regler/main.tex" 1758182851 1739 1aef0822456761bc039ddf3a1b5342f6 ""
-  "main.aux" 1759836915 19230 df47c47d8dc93f542362abc0ca7baebe "pdflatex"
-  "main.out" 1759836915 13389 4c8be8a9b0158012f63ddad6e84e9147 "pdflatex"
+  "main.aux" 1759837132 19229 c566747b57735ca067dc3b33c6d76d9e "pdflatex"
+  "main.out" 1759837132 13384 3f0f7d13792419b2144d71ae329c0808 "pdflatex"
   "main.tex" 1758182851 1739 1aef0822456761bc039ddf3a1b5342f6 ""
-  "main.toc" 1759836915 6495 9ea15b95c319df28b147d3293377d131 "pdflatex"
+  "main.toc" 1759837132 6494 aa93c5cf49e5cd7b5be3f3ca00751a15 "pdflatex"
   "mainstuff/Guderne/Esselaia.tex" 1759822153 4305 87cd54617eaff79d56e30d4b4d33745a ""
   "mainstuff/Guderne/Ewen.tex" 1759821340 4168 dffde944167b6783f5fb599661ef5863 ""
   "mainstuff/Guderne/Ishtar.tex" 1759821340 5191 8d7aeb066655b121d6e4bc0fd30b767a ""
   "mainstuff/Guderne/Kelllwan.tex" 1759821340 3828 cd3093fd24ae617d14f359389d6690a8 ""
-  "mainstuff/Guderne/Morwen.tex" 1759821340 4582 e41039344a88e98f51dc6efc976fb61f ""
-  "mainstuff/Guderne/Orlek.tex" 1759821340 4628 c6296f40a70c00701326a99fddb400c8 ""
+  "mainstuff/Guderne/Morwen.tex" 1759837124 4580 040e967fb9237e49be0f2c45bb6893bd ""
+  "mainstuff/Guderne/Orlek.tex" 1759837038 4554 3dc1b29bb9ffa090909fb03fd6990c36 ""
   "mainstuff/Guderne/Raf.tex" 1759834931 8388 de63c4d90a0959bc0bdacb51f01fc0d6 ""
   "mainstuff/Indledning.tex" 1758630746 1166 d75af6e49deaf0d5125000a1466f5047 ""
   "mainstuff/Magi.tex" 1759821340 4330 91986caec601b3ce360bce2a6c916730 ""

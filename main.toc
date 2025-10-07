@@ -78,9 +78,9 @@
 \contentsline {subsection}{Kelllwans hammer}{41}{subsection*.89}%
 \contentsline {chapter}{\numberline {12}Morwen}{42}{chapter.12}%
 \contentsline {section}{Beskrivelse}{44}{section*.91}%
-\contentsline {section}{Dødens nåde}{44}{section*.92}%
-\contentsline {section}{Tidens Tråd}{44}{section*.93}%
-\contentsline {subsection}{Dødens gave}{44}{subsection*.94}%
+\contentsline {section}{Dødens Nåde}{44}{section*.92}%
+\contentsline {section}{Tidens Nål}{44}{section*.93}%
+\contentsline {subsection}{Dødens Gave}{44}{subsection*.94}%
 \contentsline {section}{Skatter og Død}{45}{section*.95}%
 \contentsline {section}{Dødens beskyttelse}{45}{section*.96}%
 \contentsline {chapter}{\numberline {13}Orlek}{46}{chapter.13}%
