@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.9.8)  10 OCT 2025 12:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.9.8)  10 OCT 2025 12:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1182,7 +1182,7 @@ Package hyperref Info: Link coloring ON on input line 28.
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
-<setup/Pictures/A01.C01.01_Front_Billede.png, id=454, 10037.5pt x 2762.32pt>
+<setup/Pictures/A01.C01.01_Front_Billede.png, id=470, 10037.5pt x 2762.32pt>
 File: setup/Pictures/A01.C01.01_Front_Billede.png Graphic file (type png)
 <use setup/Pictures/A01.C01.01_Front_Billede.png>
 Package pdftex.def Info: setup/Pictures/A01.C01.01_Front_Billede.png  used on input line 31.
@@ -1231,7 +1231,7 @@ LaTeX Font Info:    Trying to load font information for U+stmry on input line 4.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.20 ...{Sande Troende Niv. 2}{12}{subsection*.21}
+l.20 ...ion}{Kirkeskat Niv. 3}{12}{subsection*.20}
                                                   % [1
 
 
@@ -1261,7 +1261,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
 ]
 Kapitel 2.
-Package hyperref Info: bookmark level for unknown todo defaults to 0 on input line 19.
 (../Evne-Ordbog/Kirkeskat/Kirkeskat Niv 1.tex
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
 (Font)              scaled to size 9.37807pt on input line 2.
@@ -1283,7 +1282,7 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 ]
 
 pdfTeX warning: pdflatex (file ../Evne-Ordbog/setup/Alfabeter/Helligt alfabet.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<../Evne-Ordbog/setup/Alfabeter/Helligt alfabet.pdf, id=600, 495.14487pt x 70.73526pt>
+<../Evne-Ordbog/setup/Alfabeter/Helligt alfabet.pdf, id=619, 495.14487pt x 70.73526pt>
 File: ../Evne-Ordbog/setup/Alfabeter/Helligt alfabet.pdf Graphic file (type pdf)
 <use ../Evne-Ordbog/setup/Alfabeter/Helligt alfabet.pdf>
 Package pdftex.def Info: ../Evne-Ordbog/setup/Alfabeter/Helligt alfabet.pdf  used on input line 5.
@@ -1311,17 +1310,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--18
 
 [10]
 Kapitel 4.
-(../Evne-Ordbog/Kirkeskat/Kirkeskat Niv 3.tex)) (mainstuff/Niv4.tex
+(../Evne-Ordbog/Ekstra NK/Ekstra NK Niv. 2.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 2--19
+
+ []
+
+(../Evne-Ordbog/Kirkeskat/Kirkeskat Niv 3.tex)
 
 [11
 
 
-]
+]) (mainstuff/Niv4.tex
 
 [12]
 Kapitel 5.
 
-Underfull \hbox (badness 10000) in paragraph at lines 2--7
+Underfull \hbox (badness 10000) in paragraph at lines 2--4
 
  []
 
@@ -1427,6 +1431,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--19
 
  []
 
+Package hyperref Info: bookmark level for unknown todo defaults to 0 on input line 28.
 
 
 [26] (mainstuff/Guderne/Esselaia.tex
@@ -1434,47 +1439,47 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--19
 [27]
 Kapitel 8.
 
-Overfull \hbox (3.32756pt too wide) in paragraph at lines 34--34
+Overfull \hbox (3.32756pt too wide) in paragraph at lines 33--33
 []|\T1/pplx/m/n/10.95 Niveau| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--34
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
 \T1/pplx/m/n/10.95 over-for det næ-ste
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--34
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
 \T1/pplx/m/n/10.95 over-for det næ-ste
  []
 
 
-Underfull \hbox (badness 3209) in paragraph at lines 34--34
+Underfull \hbox (badness 3209) in paragraph at lines 33--33
 \T1/pplx/m/n/10.95 di-us på 5m. In-gen
  []
 
 
-Underfull \hbox (badness 1728) in paragraph at lines 34--34
+Underfull \hbox (badness 1728) in paragraph at lines 33--33
 \T1/pplx/m/n/10.95 kun la-ves på hel-lig
  []
 
 
-Underfull \hbox (badness 1097) in paragraph at lines 34--34
+Underfull \hbox (badness 1097) in paragraph at lines 33--33
 []|\T1/pplx/m/n/10.95 4 LP til 3 per-so-ner
  []
 
 
-Underfull \hbox (badness 3364) in paragraph at lines 34--34
+Underfull \hbox (badness 3364) in paragraph at lines 33--33
 \T1/pplx/m/n/10.95 over-for al-le magi-er,
  []
 
 
-Underfull \hbox (badness 1158) in paragraph at lines 34--34
+Underfull \hbox (badness 1158) in paragraph at lines 33--33
 \T1/pplx/m/n/10.95 Det-te va-rer en spil-
  []
 
 
-Underfull \hbox (badness 2932) in paragraph at lines 34--34
+Underfull \hbox (badness 2932) in paragraph at lines 33--33
 \T1/pplx/m/n/10.95 der no-gen om-stæn-
  []
 
@@ -1484,15 +1489,10 @@ Underfull \hbox (badness 2932) in paragraph at lines 34--34
 
 
 ]
-Overfull \vbox (24.65135pt too high) has occurred while \output is active []
-
-
 
 [29]) (mainstuff/Guderne/Ewen.tex
 
 [30]
-
-[31]
 Kapitel 9.
 
 Overfull \hbox (3.32756pt too wide) in paragraph at lines 33--33
@@ -1571,19 +1571,19 @@ Underfull \hbox (badness 1902) in paragraph at lines 33--33
 
 
 
-[32
+[31
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 51--53
+Underfull \hbox (badness 10000) in paragraph at lines 57--59
 
  []
 
 
 
-[33]) (mainstuff/Guderne/Ishtar.tex
+[32]) (mainstuff/Guderne/Ishtar.tex
 
-[34]
+[33]
 Kapitel 10.
 
 Overfull \hbox (3.32756pt too wide) in paragraph at lines 33--33
@@ -1627,7 +1627,7 @@ Underfull \hbox (badness 1383) in paragraph at lines 33--33
 
 
 
-[35
+[34
 
 
 ]
@@ -1635,11 +1635,16 @@ Overfull \vbox (110.33162pt too high) has occurred while \output is active []
 
 
 
-[36]
+[35]
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
 
-[37]) (mainstuff/Guderne/Kelllwan.tex
+ []
 
-[38]
+
+
+[36]) (mainstuff/Guderne/Kelllwan.tex
+
+[37]
 Kapitel 11.
 
 Overfull \hbox (3.32756pt too wide) in paragraph at lines 34--34
@@ -1718,7 +1723,7 @@ Underfull \hbox (badness 5374) in paragraph at lines 34--34
 
 
 
-[39
+[38
 
 
 ]
@@ -1728,9 +1733,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--62
 
 ) (mainstuff/Guderne/Morwen.tex
 
-[40]
+[39]
 
-[41]
+[40]
 Kapitel 12.
 
 Overfull \hbox (3.32756pt too wide) in paragraph at lines 34--34
@@ -1774,7 +1779,7 @@ Underfull \hbox (badness 3049) in paragraph at lines 34--34
 
 
 
-[42
+[41
 
 
 ]
@@ -1782,16 +1787,16 @@ Overfull \vbox (24.65135pt too high) has occurred while \output is active []
 
 
 
-[43]
+[42]
 Underfull \hbox (badness 10000) in paragraph at lines 38--39
 
  []
 
 
 
-[44]) (mainstuff/Guderne/Orlek.tex
+[43]) (mainstuff/Guderne/Orlek.tex
 
-[45]
+[44]
 Kapitel 13.
 
 Overfull \hbox (3.32756pt too wide) in paragraph at lines 33--33
@@ -1835,7 +1840,7 @@ Underfull \hbox (badness 2302) in paragraph at lines 33--33
 
 
 
-[46
+[45
 
 
 ]
@@ -1843,21 +1848,21 @@ Overfull \vbox (38.9314pt too high) has occurred while \output is active []
 
 
 
-[47]
+[46]
 
-[48]
-Underfull \hbox (badness 10000) in paragraph at lines 62--65
+[47]
+Underfull \hbox (badness 10000) in paragraph at lines 60--63
 
  []
 
 ) (mainstuff/Guderne/Raf.tex
-Underfull \hbox (badness 10000) in paragraph at lines 67--1
+Underfull \hbox (badness 10000) in paragraph at lines 65--1
 
  []
 
 
 
-[49]
+[48]
 Kapitel 14.
 
 Overfull \hbox (3.32756pt too wide) in paragraph at lines 34--34
@@ -1936,7 +1941,7 @@ Underfull \hbox (badness 1383) in paragraph at lines 34--34
 
 
 
-[50
+[49
 
 
 ]
@@ -1944,7 +1949,7 @@ Overfull \vbox (10.41646pt too high) has occurred while \output is active []
 
 
 
-[51]
+[50]
 Underfull \hbox (badness 10000) in paragraph at lines 43--46
 
  []
@@ -1956,16 +1961,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 48--49
 
 
 
-[52]
+[51]
 
-[53]
+[52]
 Underfull \hbox (badness 10000) in paragraph at lines 83--85
 
  []
 
 
 
-[54]
+[53]
 Underfull \hbox (badness 10000) in paragraph at lines 108--110
 
  []
@@ -1976,7 +1981,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 108--110
 
 
 
-[55] 
+[54] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (main.aux)
  ***********
@@ -1984,20 +1989,20 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-03-26>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 991DDE8F80879A3580069DDD1EF7120B;13232.
+(rerunfilecheck)             Checksum: 6AA94671C0B2D6C89D5CCB691BDBF38D;13631.
  ) 
 Here is how much of TeX's memory you used:
- 37463 strings out of 469959
- 748267 string characters out of 5470319
- 1186109 words of memory out of 5000000
- 63207 multiletter control sequences out of 15000+600000
+ 37401 strings out of 469959
+ 747028 string characters out of 5470319
+ 1177109 words of memory out of 5000000
+ 63147 multiletter control sequences out of 15000+600000
  682411 words of font info for 134 fonts, out of 8000000 for 9000
  1146 hyphenation exceptions out of 8191
- 121i,17n,124p,1445b,982s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 121i,17n,124p,1445b,977s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/NTNS/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/NTNS/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/NTNS/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (56 pages, 4467562 bytes).
+Output written on main.pdf (55 pages, 4466101 bytes).
 PDF statistics:
- 1041 PDF objects out of 1200 (max. 8388607)
- 202 named destinations out of 1000 (max. 500000)
- 991 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1048 PDF objects out of 1200 (max. 8388607)
+ 197 named destinations out of 1000 (max. 500000)
+ 1023 words of extra memory for PDF output out of 10000 (max. 10000000)
 
