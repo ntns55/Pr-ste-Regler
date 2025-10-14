@@ -50,59 +50,59 @@
 \contentsline {section}{Kaste magi som Præst}{26}{section*.49}%
 \contentsline {section}{Hellig grund}{26}{section*.51}%
 \contentsline {section}{Genvinde mana som præst}{27}{section*.52}%
-\contentsline {section}{Stierne}{27}{section*.54}%
+\contentsline {section}{Stierne}{27}{section*.53}%
 \contentsline {chapter}{\numberline {8}Esseleia}{28}{chapter.8}%
-\contentsline {section}{Beskrivelse}{29}{section*.56}%
-\contentsline {subsection}{Dogma}{29}{subsection*.57}%
-\contentsline {section}{Helbredelse}{29}{section*.58}%
-\contentsline {section}{Elementernes beskyttelse}{29}{section*.59}%
-\contentsline {section}{Monisme}{30}{section*.60}%
-\contentsline {section}{Dragernes Sang}{30}{section*.61}%
+\contentsline {section}{Beskrivelse}{29}{section*.55}%
+\contentsline {subsection}{Dogma}{29}{subsection*.56}%
+\contentsline {section}{Helbredelse}{29}{section*.57}%
+\contentsline {section}{Elementernes beskyttelse}{29}{section*.58}%
+\contentsline {section}{Monisme}{30}{section*.59}%
+\contentsline {section}{Dragernes Sang}{30}{section*.60}%
 \contentsline {chapter}{\numberline {9}Ewen}{31}{chapter.9}%
-\contentsline {section}{Beskrivelse}{32}{section*.63}%
-\contentsline {subsection}{Dogma}{32}{subsection*.64}%
-\contentsline {section}{Magiens Sfære}{32}{section*.65}%
-\contentsline {section}{Magiens fontæne}{32}{section*.66}%
-\contentsline {section}{Ewens beskyttelse}{33}{section*.67}%
-\contentsline {section}{Magiens Mester}{33}{section*.68}%
+\contentsline {section}{Beskrivelse}{32}{section*.62}%
+\contentsline {subsection}{Dogma}{32}{subsection*.63}%
+\contentsline {section}{Magiens Sfære}{32}{section*.64}%
+\contentsline {section}{Magiens fontæne}{32}{section*.65}%
+\contentsline {section}{Ewens beskyttelse}{33}{section*.66}%
+\contentsline {section}{Magiens Mester}{33}{section*.67}%
 \contentsline {chapter}{\numberline {10}Ishtar}{34}{chapter.10}%
-\contentsline {section}{Beskrivelse}{36}{section*.70}%
-\contentsline {subsection}{Dogma}{36}{subsection*.71}%
-\contentsline {section}{Helbredelse}{36}{section*.72}%
-\contentsline {section}{Ishtars blik}{36}{section*.73}%
-\contentsline {section}{Hvid magi}{36}{section*.74}%
-\contentsline {section}{Hellig beskyttelse:}{37}{section*.75}%
+\contentsline {section}{Beskrivelse}{36}{section*.69}%
+\contentsline {subsection}{Dogma}{36}{subsection*.70}%
+\contentsline {section}{Helbredelse}{36}{section*.71}%
+\contentsline {section}{Ishtars blik}{36}{section*.72}%
+\contentsline {section}{Hvid magi}{36}{section*.73}%
+\contentsline {section}{Hellig beskyttelse:}{37}{section*.74}%
 \contentsline {chapter}{\numberline {11}Kelllwan}{38}{chapter.11}%
-\contentsline {section}{Beskrivelse}{38}{section*.77}%
-\contentsline {section}{Helbredelse:}{39}{section*.78}%
-\contentsline {section}{Gudens retfærdighed}{39}{section*.80}%
-\contentsline {section}{Kelllwans kampånd:}{39}{section*.81}%
-\contentsline {section}{Helligt våben}{39}{section*.82}%
-\contentsline {subsection}{Kelllwans hammer}{40}{subsection*.83}%
+\contentsline {section}{Beskrivelse}{38}{section*.76}%
+\contentsline {section}{Helbredelse:}{39}{section*.77}%
+\contentsline {section}{Gudens retfærdighed}{39}{section*.78}%
+\contentsline {section}{Kelllwans kampånd:}{39}{section*.79}%
+\contentsline {section}{Helligt våben}{39}{section*.80}%
+\contentsline {subsection}{Kelllwans hammer}{40}{subsection*.81}%
 \contentsline {chapter}{\numberline {12}Morwen}{41}{chapter.12}%
-\contentsline {section}{Beskrivelse}{43}{section*.85}%
-\contentsline {section}{Dødens Nåde}{43}{section*.86}%
-\contentsline {section}{Tidens Nål}{43}{section*.87}%
-\contentsline {subsection}{Dødens Gave}{43}{subsection*.88}%
-\contentsline {section}{Skatter og Død}{44}{section*.89}%
-\contentsline {section}{Dødens beskyttelse}{44}{section*.90}%
+\contentsline {section}{Beskrivelse}{43}{section*.83}%
+\contentsline {section}{Dødens Nåde}{43}{section*.84}%
+\contentsline {section}{Tidens Nål}{43}{section*.85}%
+\contentsline {subsection}{Dødens Gave}{43}{subsection*.86}%
+\contentsline {section}{Skatter og Død}{44}{section*.87}%
+\contentsline {section}{Dødens beskyttelse}{44}{section*.88}%
 \contentsline {chapter}{\numberline {13}Orlek}{45}{chapter.13}%
-\contentsline {section}{Beskrivelse}{46}{section*.92}%
-\contentsline {section}{Blodrus}{46}{section*.93}%
-\contentsline {section}{Livets Ritual}{46}{section*.94}%
-\contentsline {section}{Orleks Navn}{47}{section*.95}%
-\contentsline {section}{Orleks Vrede}{47}{section*.96}%
-\contentsline {subsection}{Orleks næve}{47}{subsection*.97}%
+\contentsline {section}{Beskrivelse}{46}{section*.90}%
+\contentsline {section}{Blodrus}{46}{section*.91}%
+\contentsline {section}{Livets Ritual}{46}{section*.92}%
+\contentsline {section}{Orleks Navn}{47}{section*.93}%
+\contentsline {section}{Orleks Vrede}{47}{section*.94}%
+\contentsline {subsection}{Orleks næve}{47}{subsection*.95}%
 \contentsline {chapter}{\numberline {14}Raffael Moordet}{48}{chapter.14}%
-\contentsline {section}{Beskrivelse}{50}{section*.99}%
-\contentsline {section}{Dæmon blod}{50}{section*.100}%
-\contentsline {section}{Dæmonernes hjælp}{50}{section*.101}%
-\contentsline {subsection}{Villigt sind}{50}{subsection*.102}%
-\contentsline {subsection}{Dæmonisk berøring}{51}{subsection*.103}%
-\contentsline {subsection}{Åbent Sind}{51}{subsection*.104}%
-\contentsline {subsection}{Dæmonisk Hersker}{51}{subsection*.105}%
-\contentsline {section}{Dæmonernes redskab}{52}{section*.106}%
-\contentsline {subsection}{Bundet Sjæl}{52}{subsection*.107}%
-\contentsline {subsection}{Bundet Dæmon}{52}{subsection*.108}%
-\contentsline {subsection}{Livs Drikker}{53}{subsection*.109}%
-\contentsline {section}{Korrupt beskyttelse}{53}{section*.110}%
+\contentsline {section}{Beskrivelse}{50}{section*.97}%
+\contentsline {section}{Dæmon blod}{50}{section*.98}%
+\contentsline {section}{Dæmonernes hjælp}{50}{section*.99}%
+\contentsline {subsection}{Villigt sind}{50}{subsection*.100}%
+\contentsline {subsection}{Dæmonisk berøring}{51}{subsection*.101}%
+\contentsline {subsection}{Åbent Sind}{51}{subsection*.102}%
+\contentsline {subsection}{Dæmonisk Hersker}{51}{subsection*.103}%
+\contentsline {section}{Dæmonernes redskab}{52}{section*.104}%
+\contentsline {subsection}{Bundet Sjæl}{52}{subsection*.105}%
+\contentsline {subsection}{Bundet Dæmon}{52}{subsection*.106}%
+\contentsline {subsection}{Livs Drikker}{53}{subsection*.107}%
+\contentsline {section}{Korrupt beskyttelse}{53}{section*.108}%
