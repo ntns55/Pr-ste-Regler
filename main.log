@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.23)  10 OCT 2025 19:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.23)  23 OCT 2025 21:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1183,7 +1183,7 @@ Package hyperref Info: Link coloring ON on input line 28.
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
-<setup/Pictures/A01.C01.01_Front_Billede.png, id=478, 10037.5pt x 2762.32pt>
+<setup/Pictures/A01.C01.01_Front_Billede.png, id=482, 10037.5pt x 2762.32pt>
 File: setup/Pictures/A01.C01.01_Front_Billede.png Graphic file (type png)
 <use setup/Pictures/A01.C01.01_Front_Billede.png>
 Package pdftex.def Info: setup/Pictures/A01.C01.01_Front_Billede.png  used on input line 31.
@@ -1285,7 +1285,7 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 ]
 
 pdfTeX warning: pdflatex (file ../Evne-Ordbog/setup/Alfabeter/Helligt alfabet.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<../Evne-Ordbog/setup/Alfabeter/Helligt alfabet.pdf, id=633, 495.14487pt x 70.73526pt>
+<../Evne-Ordbog/setup/Alfabeter/Helligt alfabet.pdf, id=638, 495.14487pt x 70.73526pt>
 File: ../Evne-Ordbog/setup/Alfabeter/Helligt alfabet.pdf Graphic file (type pdf)
 <use ../Evne-Ordbog/setup/Alfabeter/Helligt alfabet.pdf>
 Package pdftex.def Info: ../Evne-Ordbog/setup/Alfabeter/Helligt alfabet.pdf  used on input line 5.
@@ -1397,9 +1397,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--44
 
  []
 
-(../Evne-Ordbog/GenerelleEvner/Evner/Minearbejder.tex) (../Evne-Ordbog/GenerelleEvner/Evner/PÃ¥fÃ¸r Gift.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Slagsbror Niv 1.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Slagsbror Niv 2.tex
+(../Evne-Ordbog/GenerelleEvner/Evner/Minearbejder.tex) (../Evne-Ordbog/GenerelleEvner/Evner/PÃ¥fÃ¸r Gift.tex)
 
-[21]) (../Evne-Ordbog/GenerelleEvner/Evner/Slagsbror Niv 3.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Speciale.tex
+[21] (../Evne-Ordbog/GenerelleEvner/Evner/Slagsbror Niv 1.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Slagsbror Niv 2.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Slagsbror Niv 3.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Speciale.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
@@ -1409,9 +1409,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--8
 
  []
 
-) (../Evne-Ordbog/GenerelleEvner/Evner/Universets Centrum.tex)
 
-[22] (../Evne-Ordbog/GenerelleEvner/Evner/Urtesamler.tex)) (mainstuff/Magi.tex
+
+[22]) (../Evne-Ordbog/GenerelleEvner/Evner/Universets Centrum.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Urtesamler.tex)) (mainstuff/Magi.tex
 
 [23]
 Kapitel 7.
@@ -1434,7 +1434,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--19
 
  []
 
-Package hyperref Info: bookmark level for unknown todo defaults to 0 on input line 28.
 
 
 [27] (mainstuff/Guderne/Esselaia.tex
@@ -1725,7 +1724,7 @@ Underfull \hbox (badness 5374) in paragraph at lines 34--34
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 61--66
+Underfull \hbox (badness 10000) in paragraph at lines 60--65
 
  []
 
@@ -1832,8 +1831,13 @@ Underfull \hbox (badness 1603) in paragraph at lines 33--33
  []
 
 
-Underfull \hbox (badness 2302) in paragraph at lines 33--33
-\T1/pplx/m/n/10.95 ske cirk-ler som du
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+[]|\T1/pplx/m/n/10.95 Præstens får +36
+ []
+
+
+Underfull \hbox (badness 3815) in paragraph at lines 33--33
+\T1/pplx/m/n/10.95 el-ler næ-ste kamp/-
  []
 
 
@@ -1842,20 +1846,20 @@ Underfull \hbox (badness 2302) in paragraph at lines 33--33
 
 
 ]
-Overfull \vbox (38.9314pt too high) has occurred while \output is active []
-
-
 
 [47]
+Underfull \hbox (badness 10000) in paragraph at lines 65--68
 
-[48]) (mainstuff/Guderne/Raf.tex
-Underfull \hbox (badness 10000) in paragraph at lines 65--1
+ []
+
+) (mainstuff/Guderne/Raf.tex
+Underfull \hbox (badness 10000) in paragraph at lines 70--1
 
  []
 
 
 
-[49]
+[48]
 Kapitel 14.
 
 Overfull \hbox (3.32756pt too wide) in paragraph at lines 34--34
@@ -1934,7 +1938,7 @@ Underfull \hbox (badness 1383) in paragraph at lines 34--34
 
 
 
-[50
+[49
 
 
 ]
@@ -1942,7 +1946,7 @@ Overfull \vbox (10.41646pt too high) has occurred while \output is active []
 
 
 
-[51]
+[50]
 Underfull \hbox (badness 10000) in paragraph at lines 48--51
 
  []
@@ -1954,29 +1958,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 53--54
 
 
 
-[52]
+[51]
 
-[53]
+[52]
 Underfull \hbox (badness 10000) in paragraph at lines 88--90
 
  []
 
 
 
-[54]
+[53]
 Underfull \hbox (badness 10000) in paragraph at lines 113--115
 
  []
 
 ))
 
-[55]
+[54]
 \tf@thm=\write7
 \openout7 = `main.thm'.
 
 
 
-[56] 
+[55] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (main.aux)
  ***********
@@ -1984,20 +1988,20 @@ LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-11>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 4B9E6C12F58014E8E176BF772589203B;13768.
+(rerunfilecheck)             Checksum: 2F015CA16C4CB6664FD97DBB596489C7;13887.
  ) 
 Here is how much of TeX's memory you used:
- 37416 strings out of 468149
- 746316 string characters out of 5431082
+ 37302 strings out of 468149
+ 743685 string characters out of 5431082
  1205939 words of memory out of 5000000
- 64974 multiletter control sequences out of 15000+600000
+ 64862 multiletter control sequences out of 15000+600000
  682411 words of font info for 134 fonts, out of 8000000 for 9000
  1146 hyphenation exceptions out of 8191
- 121i,17n,124p,1426b,977s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 121i,17n,124p,1426b,687s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/niels/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/niels/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/niels/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (57 pages, 4470636 bytes).
+Output written on main.pdf (56 pages, 4469855 bytes).
 PDF statistics:
- 1067 PDF objects out of 1200 (max. 8388607)
- 201 named destinations out of 1000 (max. 500000)
- 1039 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1066 PDF objects out of 1200 (max. 8388607)
+ 199 named destinations out of 1000 (max. 500000)
+ 1047 words of extra memory for PDF output out of 10000 (max. 10000000)
 
