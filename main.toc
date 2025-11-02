@@ -102,7 +102,7 @@
 \contentsline {section}{Dæmonernes hjælp}{51}{section*.102}%
 \contentsline {subsection}{Villigt sind}{52}{subsection*.103}%
 \contentsline {subsection}{Dæmonisk berøring}{52}{subsection*.104}%
-\contentsline {subsection}{Åbent Sind}{52}{subsection*.105}%
+\contentsline {subsection}{Åbent Sind}{53}{subsection*.105}%
 \contentsline {subsection}{Dæmonisk Hersker}{53}{subsection*.106}%
 \contentsline {section}{Dæmonernes redskab}{53}{section*.107}%
 \contentsline {subsection}{Bundet Sjæl}{53}{subsection*.108}%
