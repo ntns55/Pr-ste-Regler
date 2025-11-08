@@ -36,11 +36,11 @@
 \contentsline {subsection}{Påfør gift}{18}{subsection*.36}%
 \contentsline {subsection}{Slagsbror Niv. 1}{18}{subsection*.37}%
 \contentsline {subsection}{Slagsbror Niv. 2}{18}{subsection*.38}%
-\contentsline {subsection}{Slagsbror Niv. 2}{19}{subsection*.39}%
+\contentsline {subsection}{Slagsbror Niv. 3}{19}{subsection*.39}%
 \contentsline {subsection}{Speciale}{19}{subsection*.40}%
 \contentsline {subsection}{Universets Centrum}{19}{subsection*.41}%
 \contentsline {subsection}{Universets Ydre}{19}{subsection*.42}%
-\contentsline {subsection}{Urtesamler}{20}{subsection*.43}%
+\contentsline {subsection}{Urtesamler}{19}{subsection*.43}%
 \contentsline {chapter}{\numberline {7}Magi for Præst}{21}{chapter.7}%
 \contentsline {section}{Generelle regler om Magi}{21}{section*.44}%
 \contentsline {subsection}{Magiens elve bud}{21}{subsection*.45}%
